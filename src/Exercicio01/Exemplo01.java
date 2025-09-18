@@ -1,3 +1,5 @@
+package Exercicio01;
+
 import java.util.stream.IntStream;
 
 public class Exemplo01 {
